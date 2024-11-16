@@ -1,0 +1,13 @@
+* {
+    background-color: black;
+    color: white;
+}
+
+#bt {
+    color: rgb(0, 9, 9);
+    background-color: rgb(234, 234, 234);
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(152, 21, 21);
+
+}
